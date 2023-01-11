@@ -10,4 +10,5 @@
   
 📫 How to reach me : [telegram](https://t.me/codygua) ; <a href = "mailto: cody23333@gmail.com">Send Email</a>
 
-[![My Skills](https://skillicons.dev/icons?i=ae,arduino,au,aws,bash,autocad,blender,c,cpp,cloudflare,cmake,bots,gatsby,git,github,gitlab,linux,md,matlab,nginx,nodejs,ps,powershell,pr,py,qt,raspberrypi,react,ros,unity,vercel,vim,vscode,wordpress,workers)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,linux,arduino,raspberrypi,ros,bash,md,nodejs,py,qt,vscode,vim,powershell,git,react,gatsby,nginx,wordpress,blender,unity,github,gitlab,matlab,ae,au,ps,pr,aws,cloudflare,vercel,bots,workers)](https://skillicons.dev)
+  
