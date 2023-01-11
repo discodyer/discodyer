@@ -4,7 +4,7 @@
   
 👀 I’m interested in computer vision & Embedded Development
   
-🌱 I’m currently learning rust
+🌱 I’m currently learning OpenGL & rust
   
 💞️ I’m looking to collaborate on Quadcopter UAV
   
