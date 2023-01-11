@@ -8,7 +8,7 @@
   
 💞️ I’m looking to collaborate on Quadcopter UAV
   
-📫 How to reach me : [telegram](https://t.me/codygua) ; <a href = "mailto: cody23333@gmail.com">Send Email</a>
+📫 How to reach me : [![](https://img.shields.io/badge/Telegram-@codygua-green.svg)](https://t.me/codygua) Or <a href = "mailto: cody23333@gmail.com">Send an Email</a>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,linux,arduino,raspberrypi,ros,bash,md,nodejs,py,qt,vscode,vim,powershell,git,react,gatsby,nginx,wordpress,blender,unity,github,gitlab,matlab,ae,au,ps,pr,aws,cloudflare,vercel,bots,workers)](https://skillicons.dev)
   
