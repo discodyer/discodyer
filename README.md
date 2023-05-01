@@ -2,9 +2,11 @@
 
 👋 Hi, I’m Cody Gu @discodyer 
   
-👀 I’m interested in computer vision & Embedded Development
+👀 I’m interested in Computer Vision & Embedded Development
   
-🌱 I’m currently learning OpenGL & rust
+🌱 I’m currently learning YOLO, Rust & OpenGL
+  
+🧳 I‘m working related to BCI, AR & Drone
   
 💞️ I’m looking to collaborate on Quadcopter UAV
   
