@@ -1,7 +1,9 @@
-<div align="center">
+# 👋 Hi there ! I’m Cody Gu @discodyer 
 
-👋 Hi, I’m Cody Gu @discodyer 
-  
+<a href="https://github.com/discodyer?tab=repositories" >
+  <img align=right width="45%" src="https://github-readme-stats.vercel.app/api?username=discodyer&show_icons=true&theme=calm" />
+</a>
+
 👀 I’m interested in Computer Vision & Embedded Development
   
 🌱 I’m currently learning OpenGL, Vulkan, FPGA and Verilog.
