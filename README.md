@@ -15,5 +15,3 @@
 📫 How to reach me : [![](https://img.shields.io/badge/Telegram-@codygua-green.svg)](https://t.me/s/cody2333) Or <a href = "mailto: cody23333@gmail.com">Send an Email</a>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,linux,ros,arduino,opencv,git,raspberrypi,bash,md,nodejs,py,qt,vscode,vim,react,gatsby,nginx,wordpress,blender,unity,github,gitlab,matlab,aws,cloudflare,vercel,bots,workers)](https://skillicons.dev)
-
-Avatar created by [@lietblue](https://github.com/lietblue)
